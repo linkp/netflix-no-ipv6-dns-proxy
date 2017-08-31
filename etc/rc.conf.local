@@ -1,3 +1,0 @@
-# add the following line to /etc/rc.conf.local
-# if you already have pkg_scripts configured, append netflix
-pkg_scripts=netflix
