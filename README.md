@@ -88,7 +88,7 @@ I already run Unbound on my OpenBSD hosts as the resolver for my network, so thi
 
 OpenBSD rcctl did not care for the . in the daemon name, so /usr/local/sbin/netflix is simply a copy of server.py
 
-If you have set your PKG_PATH variable you should be able to install the required depnecies with the following:
+If you have set your PKG_PATH variable you should be able to install the required dependencies with the following:
 
 `pkg_add -Uv py-twisted-names`
 
