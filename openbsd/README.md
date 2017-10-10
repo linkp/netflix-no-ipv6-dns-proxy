@@ -12,8 +12,8 @@ If you have set your PKG_PATH variable you should be able to install the require
 
 `pkg_add -Uv py-twisted-names`
 
-Pay attention to the final output about linking the python binaries.
-`/usr/local/bin/python -> /usr/local/bin/python2.7`
+Pay attention to the final output about linking the python binaries.  
+`/usr/local/bin/python -> /usr/local/bin/python2.7`  
 **If you skip that step, the daemon will not run!**
 
 You will need the following files from this repository:
