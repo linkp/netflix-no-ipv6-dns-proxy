@@ -1,6 +1,6 @@
 # OpenBSD
 
-Tested on OPenBSD 6.0-6.2
+Tested on OpenBSD 6.0-6.2
 
 Running this on OpenBSD requires some slight adjustments.
 
