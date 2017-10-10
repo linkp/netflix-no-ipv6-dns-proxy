@@ -83,4 +83,4 @@ If you're using launchd (eg: macOS), install the launchd.plist and load the serv
 
 ## OpenBSD
 
-See README.md in openbsd directory
+See [README.md](openbsd/README.md) in openbsd directory
